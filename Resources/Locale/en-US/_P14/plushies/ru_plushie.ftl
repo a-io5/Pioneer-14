@@ -1,0 +1,9 @@
+plushie-p14-ru-1 = Placeholder line 1.
+plushie-p14-ru-2 = Placeholder line 2.
+plushie-p14-ru-3 = Placeholder line 3.
+plushie-p14-ru-4 = Placeholder line 4.
+plushie-p14-ru-5 = Placeholder line 5.
+plushie-p14-ru-6 = Placeholder line 6.
+plushie-p14-ru-7 = Placeholder line 7.
+plushie-p14-ru-8 = Placeholder line 8.
+plushie-p14-ru-9 = Placeholder line 9.

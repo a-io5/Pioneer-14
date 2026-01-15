@@ -1,0 +1,17 @@
+- type: localizedDataset
+  id: PlushiesP14Peep
+  values:
+    prefix: plushie-p14-peep-
+    count: 9
+
+- type: localizedDataset
+  id: PlushiesP14Ru
+  values:
+    prefix: plushie-p14-ru-
+    count: 9
+
+- type: localizedDataset
+  id: PlushiesP14Gogumi
+  values:
+    prefix: plushie-p14-gogumi-
+    count: 9

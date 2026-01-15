@@ -1,0 +1,9 @@
+plushie-p14-gogumi-1 = Placeholder line 1.
+plushie-p14-gogumi-2 = Placeholder line 2.
+plushie-p14-gogumi-3 = Placeholder line 3.
+plushie-p14-gogumi-4 = Placeholder line 4.
+plushie-p14-gogumi-5 = Placeholder line 5.
+plushie-p14-gogumi-6 = Placeholder line 6.
+plushie-p14-gogumi-7 = Placeholder line 7.
+plushie-p14-gogumi-8 = Placeholder line 8.
+plushie-p14-gogumi-9 = Placeholder line 9.

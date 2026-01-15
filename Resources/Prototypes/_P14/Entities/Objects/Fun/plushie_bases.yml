@@ -1,0 +1,37 @@
+- type: entity
+  parent: BasePlushie
+  id: BasePlushieVocalizer
+  abstract: true
+  components:
+    - type: Vocalizer
+      minVocalizeInterval: 120
+      maxVocalizeInterval: 240
+
+- type: entity
+  parent: BasePlushieVocalizer
+  id: BaseResomiPlushie
+  abstract: true
+  components:
+  - type: EmitSoundOnUse
+    sound:
+      collection: ResomiChirp
+  - type: EmitSoundOnLand
+    sound:
+      collection: ResomiChirp
+  - type: EmitSoundOnActivate
+    sound:
+      collection: ResomiChirp
+  - type: EmitSoundOnCollide
+    sound:
+      path: /Audio/_Starlight/Effects/avali_scream.ogg
+  - type: EmitSoundOnTrigger
+    sound:
+      collection: ResomiChirp
+  - type: MeleeWeapon
+    wideAnimationRotation: 180
+    soundHit:
+      collection: ResomiChirp
+  - type: Food
+    requiresSpecialDigestion: true
+    useSound:
+      path: /Audio/_Starlight/Effects/avali_scream.ogg
