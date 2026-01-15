@@ -1,6 +1,3 @@
-[submodule "RobustToolbo"]
-	path = RobustToolbo
-	url = https://github.com/space-wizards/RobustToolbox.git
 [submodule "RobustToolbox"]
 	path = RobustToolbox
 	url = https://github.com/space-wizards/RobustToolbox.git
