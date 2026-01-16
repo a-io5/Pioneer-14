@@ -1,4 +1,4 @@
-﻿using Content.Shared.Administration;
+using Content.Shared.Administration;
 using Content.Shared.CCVar.CVarAccess;
 using Robust.Shared.Configuration;
 
@@ -202,7 +202,7 @@ public sealed partial class CCVars
     /// </summary>
     [CVarControl(AdminFlags.VarEdit)]
     public static readonly CVarDef<bool> ImpactEnabled =
-        CVarDef.Create("shuttle.impact.enabled", false, CVar.SERVERONLY); // Frontier true<false
+        CVarDef.Create("shuttle.impact.enabled", true, CVar.SERVERONLY); // Frontier true<false
 
     /// <summary>
     /// Minimum impact inertia to trigger special shuttle impact behaviors when impacting slower than MinimumImpactVelocity.
